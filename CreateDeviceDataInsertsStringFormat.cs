@@ -191,3 +191,8 @@
 
             return retVal;
         }
+
+/*
+CreateDeviceDataInserts.cs dosyasından farklı olarak double değişkenlerin ',' alan kısımları '.' ile değiştirildi. 
+İşin aciliyeti sebebiyle şimdilik böyle bir çözüm tercih edildi.
+*/
